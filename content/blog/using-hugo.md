@@ -3,6 +3,8 @@ title: "Building Dynamic Websites with Hugo: A Comprehensive Guide"
 date: 2023-07-11T17:02:31-04:00
 ---
 
+# INTRO
+
 In today's digital age, having an impressive online presence is essential for individuals and businesses alike. Websites serve as a powerful tool to showcase your brand, share information, and engage with your target audience. When it comes to building a fast, flexible, and feature-rich website, Hugo stands out as an excellent choice. In this article, we will explore the process of creating a website with Hugo, a popular open-source static site generator.
 
 ## What is Hugo?
