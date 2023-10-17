@@ -4,4 +4,8 @@ _site
 .jekyll-metadata
 public
 vendor
-.DS_Store.DS_Store
+.DS_Store
+node_modules
+/resources/_gen/
+dist
+tmp
