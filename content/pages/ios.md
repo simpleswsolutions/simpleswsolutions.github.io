@@ -1,7 +1,6 @@
 ---
 title: "iOS"
 date: 2023-10-17T17:22:13-04:00
-draft: true
 url: /ios/
 ---
 

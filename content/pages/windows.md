@@ -1,7 +1,7 @@
 ---
 title: "Windows"
 date: 2023-10-17T17:50:09-04:00
-draft: true
+url: /windows/
 ---
 
 <section class="slider">

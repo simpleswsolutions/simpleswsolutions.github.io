@@ -1,7 +1,7 @@
 ---
 title: "React"
 date: 2023-10-17T17:50:05-04:00
-draft: true
+url: /react/
 ---
 
 <section class="slider">
