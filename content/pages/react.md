@@ -7,15 +7,15 @@ url: /react/
 <section class="slider">
     <ul class="slides">
         <li>
-            <img src="images/reactjs-small.png" alt="React JS, JavaScript &amp; Material-UI" class="slide1 hide-on-med-and-down responsive-img">
-            <img src="images/reactjs-mobile.png" alt="React JS, JavaScript &amp; Material-UI" class="slide1-mobile responsive-img">
+            <img src="/images/reactjs-small.png" alt="React JS, JavaScript &amp; Material-UI" class="slide1 hide-on-med-and-down responsive-img">
+            <img src="/images/reactjs-mobile.png" alt="React JS, JavaScript &amp; Material-UI" class="slide1-mobile responsive-img">
             <div class="caption center-align">
                 <h3>React <span class="red-title">Mobile</span> Solutions</h3>
             </div>
         </li>
         <li>
-            <img src="images/ipad-small-landscape.png" alt="Elegant &amp; Innovative React JS Apps" class="slide2 hide-on-med-and-down responsive-img">
-            <img src="images/iphone6-small.png" alt="Elegant &amp; Innovative React JS Apps" class="slide2-mobile responsive-img">
+            <img src="/images/ipad-small-landscape.png" alt="Elegant &amp; Innovative React JS Apps" class="slide2 hide-on-med-and-down responsive-img">
+            <img src="/images/iphone6-small.png" alt="Elegant &amp; Innovative React JS Apps" class="slide2-mobile responsive-img">
             <div class="caption left-align">
                 <h3>Modern, <span class="red-title">Reliable,</span> Fast</h3>
             </div>
@@ -42,7 +42,7 @@ url: /react/
     <div class="container">
         <div class="col s12">
             <div class="wrapper">
-                <img class="responsive-img mobile-align-right" src="images/what-we-do.png" width="598" alt="What We Do">
+                <img class="responsive-img mobile-align-right" src="/images/what-we-do.png" width="598" alt="What We Do">
                 <h2>What We<span class="bold-grey"> Do</span></h2>
                 <p>Our team focuses on creating mobile, responsive <strong>web applications</strong> employing HTML5, JavaScript, <strong>React JS</strong>, Material-UI, and several others.</p>
                 <p>Whether packaged as <strong>Cordova</strong> applications or deployed to standard web servers, the web applications we implement are carefully crafted and thoroughly tested.
@@ -63,14 +63,14 @@ url: /react/
                 <p>We typically work on an <strong>hourly</strong> basis but we can quote you a <strong>fixed price</strong> if
                     you have clearly defined what you want done.  Heck, we would even be open to a partnership!</p>
                 <br>
-                <img class="responsive-img mobile-align-left" src="images/material.png" width="400" alt="How we do it">
+                <img class="responsive-img mobile-align-left" src="/images/material.png" width="400" alt="How we do it">
                 <h2>On the<span class="bold-red"> client</span></h2>
                 <p>No matter the size or complexity of the project, our <strong>expert team</strong> will match it with a top-notch <strong>React JS</strong> web application
                     to make your idea a reality.</p>
                 <p>Although UI frameworks abound these days, we have focused on <strong>Material-UI</strong> to help us deliver clean, modern, easy to use <strong>React JS</strong> applications, however,
                     if you have something else in mind, <i>perhaps we can be persuaded</i>...</p>
                 <div class="ver-spacer-mid"></div>
-                <img class="responsive-img mobile-align-right" src="images/server.png" width="500" alt="On the server">
+                <img class="responsive-img mobile-align-right" src="/images/server.png" width="500" alt="On the server">
                 <h2>On the<span class="bold-red">  server</span></h2>
                 <p>When faced with an unwieldy legacy infrastructure, we simply drop in a <strong>RESTful aggregator</strong> service, acting as a middle-man, for a fluid exchange between your application and the back-end services.</p>
                 <p>Because our team has designed many systems utilizing <strong>Node JS</strong> paired with <strong>Express JS</strong> and Mongo DB, PostgreSQL, or MySQL, <strong>creating back-end solutions</strong> with these technologies <strong>is like riding a bike for us</strong>.</p>
@@ -85,7 +85,7 @@ url: /react/
     <div class="container">
         <div class="col 12">
             <div class="wrapper">
-                <img class="responsive-img mobile-align-left" src="images/modus.jpg" width="515" alt="Our Modus Operandi">
+                <img class="responsive-img mobile-align-left" src="/images/modus.jpg" width="515" alt="Our Modus Operandi">
                 <h2>Our Modus<span class="bold-red"> Operandi</span></h2>
                 <p>Simple Software Solutions is led by Carlos Portela, a veteran of the software development industry.</p>
                 <p>Backing up his 25 years of experience in the field is a <strong>core team</strong> of developers with a <strong>solid track</strong> record of <strong>delivering</strong> reliable software development <strong>projects</strong>.</p>

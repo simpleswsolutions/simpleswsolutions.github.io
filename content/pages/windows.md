@@ -7,15 +7,15 @@ url: /windows/
 <section class="slider">
     <ul class="slides">
         <li>
-            <img src="images/win10-logo.png" alt="React JS, JavaScript &amp; Material-UI" class="slide1 hide-on-med-and-down responsive-img">
-            <img src="images/win10-logo-small.png" alt="React JS, JavaScript &amp; Material-UI" class="slide1-mobile responsive-img">
+            <img src="/images/win10-logo.png" alt="React JS, JavaScript &amp; Material-UI" class="slide1 hide-on-med-and-down responsive-img">
+            <img src="/images/win10-logo-small.png" alt="React JS, JavaScript &amp; Material-UI" class="slide1-mobile responsive-img">
             <div class="caption center-align">
                 <h3>Universal <span class="red-title">Windows</span> Apps</h3>
             </div>
         </li>
         <li>
-            <img src="images/win10-desktop.png" alt="Elegant &amp; Innovative React JS Apps" class="slide2 hide-on-med-and-down responsive-img">
-            <img src="images/win10-phone-small.png" alt="Elegant &amp; Innovative React JS Apps" class="slide2-mobile responsive-img">
+            <img src="/images/win10-desktop.png" alt="Elegant &amp; Innovative React JS Apps" class="slide2 hide-on-med-and-down responsive-img">
+            <img src="/images/win10-phone-small.png" alt="Elegant &amp; Innovative React JS Apps" class="slide2-mobile responsive-img">
             <div class="caption left-align">
                 <h3>Modern, <span class="red-title">Reliable,</span> Fast</h3>
             </div>
@@ -46,7 +46,7 @@ url: /windows/
     <div class="container">
         <div class="col s12">
             <div class="wrapper">
-                <img class="responsive-img mobile-align-right" src="images/vs-2015.jpg" width="598" alt="What We Do">
+                <img class="responsive-img mobile-align-right" src="/images/vs-2015.jpg" width="598" alt="What We Do">
                 <h2>What We<span class="bold-grey"> Do</span></h2>
                 <p>Our team focuses on creating fast, reliable, beautiful, responsive, and
                     adaptive <strong>UWP applications</strong> employing <strong>XAML</strong>,
@@ -77,7 +77,7 @@ url: /windows/
                     you have clearly defined what you want done.  Heck, we would
                     even be open to a partnership!</p>
                 <br>
-                <img class="responsive-img mobile-align-left" src="images/vs-2015-2.png" width="400" alt="How we do it">
+                <img class="responsive-img mobile-align-left" src="/images/vs-2015-2.png" width="400" alt="How we do it">
                 <h2>On the<span class="bold-red"> client</span></h2>
                 <p>No matter the size or complexity of the project, our <strong>expert team</strong>
                     will match it with a top-notch <strong>Universal Windows Platform</strong> application
@@ -87,7 +87,7 @@ url: /windows/
                     we have employed for years to develop <strong>UWP</strong> applications.
                     <strong>We are pretty good at it!</strong></p>
                 <div class="ver-spacer-mid"></div>
-                <img class="responsive-img mobile-align-right" src="images/server.png" width="500" alt="On the server">
+                <img class="responsive-img mobile-align-right" src="/images/server.png" width="500" alt="On the server">
                 <h2>On the<span class="bold-red">  server</span></h2>
                 <p>When faced with an unwieldy legacy infrastructure, we simply drop in a
                     <strong>RESTful aggregator</strong> service, acting as a middle-man, for
@@ -107,7 +107,7 @@ url: /windows/
     <div class="container">
         <div class="col 12">
             <div class="wrapper">
-                <img class="responsive-img mobile-align-left" src="images/modus.jpg" width="515" alt="Our Modus Operandi">
+                <img class="responsive-img mobile-align-left" src="/images/modus.jpg" width="515" alt="Our Modus Operandi">
                 <h2>Our Modus<span class="bold-red"> Operandi</span></h2>
                 <p>Simple Software Solutions is led by Carlos Portela, a veteran of the
                     software development industry.</p>
