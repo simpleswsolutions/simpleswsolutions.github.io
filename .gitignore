@@ -5,7 +5,7 @@ _site
 public
 vendor
 .DS_Store
-node_modules
+/node_modules/
 /resources/_gen/
 dist
 tmp
