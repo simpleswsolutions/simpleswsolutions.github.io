@@ -1,6 +1,6 @@
 ---
 title: "Building Dynamic Websites with Hugo: A Comprehensive Guide"
-date: 2023-07-11T17:02:31-04:00
+date: 2023-07-11T17:02:31-04:03
 ---
 
 
