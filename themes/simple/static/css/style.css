@@ -1,5 +1,5 @@
-header {
-    background-color: #dadada;
+.home-header {
+    background-color: #035030;
     position: fixed;
     width: 100%;
     color: #fff;
@@ -7,12 +7,21 @@ header {
     transition: all 0.4s cubic-bezier(0.61, 0.33, 0.25, 0.51)
 }
 
+.blog-header {
+    background-color: #035030;
+    width: 100%;
+    color: #fff;
+    -webkit-transition: all 0.4s cubic-bezier(0.61, 0.33, 0.25, 0.51);
+    transition: all 0.4s cubic-bezier(0.61, 0.33, 0.25, 0.51);
+    display: inline-block;
+}
+
 .sticky {
-    background-color: #c2c1c1;
-    background: #c2c2c2;
-    background: -webkit-linear-gradient(270deg, #c2c2c2 35%, #cecccc 63%);
+    /* background-color: #c2c1c1;
+    background: #c2c2c2; */
+    /* background: -webkit-linear-gradient(270deg, #c2c2c2 35%, #cecccc 63%);
     background: -webkit-linear-gradient(90deg, #c2c2c2 35%, #cecccc 63%);
-    background: linear-gradient(0deg, #c2c2c2 35%, #cecccc 63%);
+    background: linear-gradient(0deg, #c2c2c2 35%, #cecccc 63%); */
     box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.5), 0 0 2px 0 rgba(0, 0, 0, 0.12);
     border-bottom: 1px solid #959494;
     z-index: 200
@@ -52,7 +61,7 @@ nav ul li {
 
 nav ul li a {
     padding: 10px;
-    font-size: 25px;
+    font-size: 16px;
     text-decoration: none;
     color: #fff;
     display: block;
@@ -61,7 +70,7 @@ nav ul li a {
 }
 
 .sticky nav ul li a {
-    font-size: 20px;
+    font-size: 18px;
     line-height: 35px
 }
 
@@ -136,7 +145,7 @@ nav ul li a:hover, nav ul li a.active {
 }
 
 .slider .slides {
-    background-color: #dadada
+    background-color: #035030
 }
 
 .slider .slides {
@@ -206,7 +215,11 @@ nav ul li a:hover, nav ul li a.active {
 }
 
 .yellow {
-    background-color: #ebd74e
+    background-color: #e4e8e4
+}
+
+.ultra-light-green {
+    background-color: #c9f5c9
 }
 
 .green-pastel {
@@ -310,15 +323,15 @@ p {
 .overlay > .ie {
     top: 10px;
     background-color: #ffffff;
-    border: 1px solid #dadada;
+    border: 1px solid #035030;
     padding: 30px 0;
     width: 100%;
     text-align: center
 }
 
 footer {
-    background-color: #424242;
-    color: #7b7b7b;
+    background-color: #035030;
+    color: #eaf5ef;
     font-weight: 100;
     padding: 45px 0
 }

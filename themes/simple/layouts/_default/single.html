@@ -1,9 +1,7 @@
 {{ define "main" }}
-<section class="slider">
-    <div class="container">
-        <div class="content">
-            {{ .Content }}
-        </div>
-    </div>
-</section>
+{{- partial "header-blog.html" . -}}
+<main style="padding: 20px;">
+    <h3>{{ .Params.title }}</h3>
+    {{ .Content }} 
+</main>
 {{ end }}
