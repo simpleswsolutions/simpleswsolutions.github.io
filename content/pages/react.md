@@ -3,7 +3,6 @@ title: "React"
 date: 2023-10-17T17:50:05-04:00
 url: /react/
 ---
-
 <section class="slider">
     <ul class="slides">
         <li>

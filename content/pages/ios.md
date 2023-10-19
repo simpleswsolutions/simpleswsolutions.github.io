@@ -3,7 +3,6 @@ title: "iOS"
 date: 2023-10-17T17:22:13-04:00
 url: /ios/
 ---
-
 <section class="slider">
     <ul class="slides">
         <li>

@@ -3,7 +3,6 @@ title: "Windows"
 date: 2023-10-17T17:50:09-04:00
 url: /windows/
 ---
-
 <section class="slider">
     <ul class="slides">
         <li>
