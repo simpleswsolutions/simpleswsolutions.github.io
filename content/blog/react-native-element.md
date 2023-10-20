@@ -4,11 +4,6 @@ date: 2023-10-20T06:23:02-04:00
 draft: false
 ---
 
-<div style="margin: 10%;">
-
-#### React Native Interview: Ask this second!
-###### By Carlos Portela, Oct 20th, 2023
-
 In this earlier blog entry, "[React Native Interview: Ask this first!](/blog/react-native-interview)", 
 we talked about a couple of very simple and direct questions to ask of your candidate 
 that tend to reveal his/her depth of practical experience with React Native.  The same logic 
@@ -101,7 +96,5 @@ Those who answer the question correctly tend to show a level of professional
 curiosity and attention to detail that may set them apart from others.
 
 Keep this in mind the next time you interview a candidate for your projects.
-
-</div>
 
 

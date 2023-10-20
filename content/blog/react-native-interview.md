@@ -4,11 +4,6 @@ date: 2023-10-20T06:23:02-04:00
 draft: false
 ---
 
-<div style="margin: 10%;">
-
-#### React Native Interview: Ask this first!
-###### By Carlos Portela, Oct 20th, 2023
-
 Determining a candidate's depth of knowledge can be a tricky endeavor.
 
 Potential candidates have all sorts of resources available to them, and many of them
@@ -93,6 +88,5 @@ It is not about humiliating the candidate, demeaning him/her, or even making
 yourself look wise and intelligent, it's all about efficiently determining 
 the candidate's fitness for the project.
 
-</div>
 
 
