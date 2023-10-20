@@ -62,8 +62,8 @@ go in a totally different, more philosophical direction with him/her.
 > Create a simple React Native app that shows a single button labeled "Tap me".  
 > On the button's tap handler, add code that displays an alert that shows the 
 > structure of the native event.  
-> Place a breakpoint right before the alert is shown.  
-> Run the app on the simulator and be sure it stops on your breakpoint
+> Place a breakpoint at the point right before the alert is shown.  
+> Run the app on the simulator and be sure it stops on your breakpoint.
 
 Ideally, the candidate is sharing his/her screen, but otherwise a detailed 
 step-by-step description would suffice.
@@ -86,11 +86,11 @@ ultimately, break right before it.
 
 Any hesitation on any of the steps above is cause for concern, but sometimes
 you have to do with what you have and a little hand-holding during the interview,
-and after hiring, may be necessary.
+and even after hiring, may be necessary.
 
 It is not about humiliating the candidate, demeaning him/her, or even making 
 yourself look wise and intelligent, it's all about efficiently determining 
-the candidate's fitness for your project.
+the candidate's fitness for the project.
 
 </div>
 
