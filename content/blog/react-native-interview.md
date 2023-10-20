@@ -7,6 +7,7 @@ draft: false
 <div style="margin: 10%;">
 
 #### React Native Interview: Ask this first!
+###### By Carlos Portela, Oct 20th, 2023
 
 Determining a candidate's depth of knowledge can be a tricky endeavor.
 
