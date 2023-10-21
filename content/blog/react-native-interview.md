@@ -1,6 +1,6 @@
 ---
 title: "React Native Interview: Ask this first!"
-date: 2023-10-20T06:23:02-04:00
+date: 2023-10-12T06:23:02-04:00
 draft: false
 ---
 

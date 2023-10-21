@@ -33,6 +33,11 @@
     transition: all 0.4s ease
 }
 
+p.punch-line {
+    font-size: 18px;
+    font-weight: 500;
+}
+
 .sticky img {
     width: 150px;
 }
