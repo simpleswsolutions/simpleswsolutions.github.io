@@ -3,11 +3,12 @@
 <main style="padding: 20px;">
     <div style="margin: 10%;">
 
-        <h4>{{ .Title }}</h4>
-        <h6>By Carlos Portela, {{ .Date.Format "Jan 2, 2006" }}</h6>
+        <h1>{{ .Title }}</h1>
+        <h4>By Carlos Portela, {{ .Date.Format "Jan 2, 2006" }}</h4>
         
     <!-- <h3>{{ .Params.title }}</h3> -->
     {{ .Content }} 
+    <hr/>
     <p>To email Carlos to discuss your project's needs please click
         <script type="text/javascript">
 //<![CDATA[
@@ -33,9 +34,9 @@ var x = "function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" 
         <strong>954-444-0800</strong> and the email is
         <strong>cportela</strong>
         <strong>@</strong> <strong>simple-sw.com</strong>.
-        <h2>
+        <!-- <h2>
             <span class="bold-red">Call today!</span>
-        </h2>
+        </h2> -->
     </p>    
 </main>
 {{ end }}

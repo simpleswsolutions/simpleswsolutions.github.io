@@ -31,7 +31,7 @@ the object's structure, or even name it.
 
 The correct answer is: "**IT RETURNS A REACT ELEMENT**"
 
-##### What is a React Element?
+## What is a React Element?
 
 A **_React Element_** is the structural unit of the **_Virtual DOM_**.
 
@@ -40,7 +40,7 @@ the actual **_Document Object Model_**, or **_DOM_**.
 
 And Yes, even in React Native there is a **_DOM_**.
 
-##### What does a React Element look like?
+## What does a React Element look like?
 
 Let's dissect a **_React Element_** by way of a very simple example of a functional
 component that specifies a very simple **_JSX_** hierarchy:
