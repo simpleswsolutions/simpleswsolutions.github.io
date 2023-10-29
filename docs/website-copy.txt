@@ -1,0 +1,26 @@
+Main points
+===========
+
+I am risk-free:
+    Almost 30 years on the field
+    Last 7 years solid React Native
+    Delivered several React Naive apps
+    Proven record
+    Case studies to back it up
+
+What I do now: (Before I worked on hourly projects)
+    I focus on Return on Investment
+    I provide entire solutions
+    I provide innovative billing methods
+    You track project progress on a weekly basis
+
+What I can do best: (things I have been doing the most in the last 8-10 years)
+    Develop mobile apps with React Native
+    Develop the app's backend wit Node JS, Express, MySQL, GraphQL, etc
+
+Other things I can do: (things I have done in my career, but not much recently)
+    Develop iOS apps using Objective-C and Swift
+    Develop web apps using React JS
+    Develop hand-wired static web sites
+    Develop backend micro-service architectures
+
